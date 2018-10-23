@@ -1,1 +1,42 @@
 #hosts
+address=/liftoff.io/127.0.0.1
+address=/b2c.com/127.0.0.1
+address=/openx.com/127.0.0.1
+address=/adrta.com/127.0.0.1
+address=/adsafeprotected.com/127.0.0.1
+address=/rayjump.com/127.0.0.1
+address=/startappservice.com/127.0.0.1
+address=/aerserv.com/127.0.0.1
+address=/flurry.com/127.0.0.1
+address=/doubleclick.net/127.0.0.1
+address=/leanplum.com/127.0.0.1
+address=/mopub.com/127.0.0.1
+address=/gemini.yahoo.com/127.0.0.1
+address=/71.am/127.0.0.1
+address=/moatads.com/127.0.0.1
+address=/crashlytics.com/127.0.0.1
+address=/tapas.net/127.0.0.1
+address=/adashbc.m.taobao.com/127.0.0.1
+address=/moguv.com/127.0.0.1
+#youku
+address=/atm.youku.com/127.0.0.1
+address=/lstat.youku.com/127.0.0.1
+address=/stat.youku.com/127.0.0.1
+#molitv
+address=/molitv.cn/127.0.0.1
+#nox emu
+address=/googleclubstore.com/127.0.0.1
+address=/applinzi.com/127.0.0.1
+#2144
+address=/2144.com/127.0.0.1
+#kaopu emu
+address=/app.kaopu001.com/127.0.0.1
+#zunmi
+address=/parking.zunmi.cn/127.0.0.1
+#play store china ver
+address=/services.googleapis.cn/172.217.3.163
+#AION GPK UPDATE
+address=/aion.dorado.sdo.com/127.0.0.1
+#ue licensing
+address=/licensing.ultraedit.com/127.0.0.1
+address=/licensing2.ultraedit.com/127.0.0.1
