@@ -66,6 +66,7 @@ address=/countatm.cp12.wasu.tv/127.0.0.1
 address=/valatm.cp12.wasu.tv/127.0.0.1
 address=/topapi.cp12.wasu.tv/127.0.0.1
 #nox emu
+#address=/api.bignox.com/127.0.0.1
 address=/bi.yeshen.com/127.0.0.1
 address=/launcher.yeshen.com/127.0.0.1
 address=/app.yeshen.com/127.0.0.1
@@ -83,3 +84,8 @@ address=/aion.dorado.sdo.com/127.0.0.1
 #ue licensing
 address=/licensing.ultraedit.com/127.0.0.1
 address=/licensing2.ultraedit.com/127.0.0.1
+#xunlei
+#address=/hub5btmain.sandai.net/127.0.0.1
+#address=/hub5emu.sandai.net/127.0.0.1
+#address=/upgrade.xl9.xunlei.com/127.0.0.1
+
