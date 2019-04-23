@@ -18,6 +18,7 @@ address=/crashlytics.com/127.0.0.1
 address=/tapas.net/127.0.0.1
 address=/adashbc.m.taobao.com/127.0.0.1
 address=/moguv.com/127.0.0.1
+address=/my-search.com/127.0.0.1
 #youku
 address=/atm.youku.com/127.0.0.1
 address=/lstat.youku.com/127.0.0.1
@@ -88,4 +89,23 @@ address=/licensing2.ultraedit.com/127.0.0.1
 #address=/hub5btmain.sandai.net/127.0.0.1
 #address=/hub5emu.sandai.net/127.0.0.1
 #address=/upgrade.xl9.xunlei.com/127.0.0.1
-
+#activate
+address=/activate.bitsum.com/127.0.0.1
+#ESET NOD32 UPDATE
+#address=/update.eset.com/119.29.72.159
+#duel links Download(HK)
+#address=/att-dl.akamaized.net/23.2.16.33
+#address=/att-dl.akamaized.net/42.99.128.147
+#duel links Download(TW)
+#address=/att-dl.akamaized.net/203.69.138.27
+#duel links Download(SGP)
+address=/att-dl.akamaized.net/124.155.222.191
+#duel links banIP
+#address=/att-s-jpb.mo.konami.net/103.86.70.254
+#address=/att-auths-jpb.mo.konami.net/103.86.70.254
+#address=/att-mt-jpb.mo.konami.net/103.86.70.254
+#address=/att-ct-jpb.mo.konami.net/103.86.70.254
+#address=/att-purs-jpb.mo.konami.net/103.86.70.254
+#BAN Diskeeper
+address=/esm.condusiv.com/127.0.0.1
+address=/esm.diskeeper.com/127.0.0.1
